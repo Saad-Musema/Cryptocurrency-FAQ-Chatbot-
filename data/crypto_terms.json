@@ -1,0 +1,30 @@
+{
+    "bitcoin": {
+        "definition": "Bitcoin is a decentralized digital currency that allows peer-to-peer transactions without a central authority. It operates on a blockchain using a Proof of Work (PoW) consensus mechanism.",
+        "example": "Example: Buying Bitcoin on an exchange like Coinbase."
+    },
+    "ethereum": {
+        "definition": "Ethereum is a decentralized platform that runs smart contracts and enables the creation of decentralized applications (dApps) on its blockchain.",
+        "example": "Example: Decentralized applications such as CryptoKitties run on the Ethereum blockchain."
+    },
+    "blockchain": {
+        "definition": "A blockchain is a decentralized ledger that records transactions across many computers in a way that prevents tampering.",
+        "example": "Example: Bitcoin's blockchain records all Bitcoin transactions."
+    },
+    "mining": {
+        "definition": "Mining is the process of validating and adding transactions to the blockchain by solving complex mathematical problems in proof-of-work systems.",
+        "example": "Example: Bitcoin miners use powerful computers to mine new Bitcoins."
+    },
+    "wallet": {
+        "definition": "A cryptocurrency wallet is a tool that allows users to store and manage their cryptocurrencies. It can be a software (hot wallet) or hardware (cold wallet).",
+        "example": "Example: A hardware wallet like Ledger Nano S is a cold wallet."
+    },
+    "defi": {
+        "definition": "Decentralized Finance (DeFi) refers to financial services and applications built on blockchain technology that operate without traditional financial intermediaries.",
+        "example": "Example: A DeFi platform like Uniswap allows users to trade cryptocurrencies directly."
+    },
+    "security": {
+        "definition": "Security tips include using two-factor authentication (2FA), securing your private keys, and storing cryptocurrencies in cold wallets to protect against theft.",
+        "example": "Example: Enable 2FA on your crypto exchange to enhance account security."
+    }
+}

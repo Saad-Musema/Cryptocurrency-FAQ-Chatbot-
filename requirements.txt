@@ -1,0 +1,5 @@
+# requirements.txt
+hyperon
+nltk  # Natural Language Toolkit (you can add other NLP libraries as needed)
+streamlit
+gemini_ai

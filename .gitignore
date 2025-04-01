@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+chatbot/
+
 # Distribution / packaging
 .Python
 build/
